@@ -4,10 +4,10 @@
 
 I am a Full Stack Developer and Research Technology Professional working at the intersection of Healthcare Informatics, Disease Surveillance, Artificial Intelligence, and Agriculture Intelligence Systems.
 
-* 🔭 Currently working on Healthcare Surveillance and Digital Health Platforms
-* 🌱 Exploring AI/ML, LLMs and Predictive Analytics
+* 🔭 Currently working on Healthcare Surveillance, Digital Health Platforms and Agricultural Platforms.
 * 💻 Experienced in React Native, React JS, Spring Boot, Flask, Python, Java, MySQL, Docker, and Kubernetes
 * 📊 Interested in Data Analytics and Decision Support Systems
+* 🌱 Exploring AI/ML, LLMs and Predictive Analytics
 <!-- * 🚀 Building scalable SaaS platforms for Healthcare and Agriculture -->
 
 
