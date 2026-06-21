@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Indranil Ganguly
 
-<!--
-**IndranilGanguly/IndranilGanguly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Full Stack Developer
+- React Native & Flask Developer
+- Working on ICMR FoodNet and Fungi NTD Tracker
+- Interested in AI, Healthcare Informatics, and Agriculture Intelligence
 
-Here are some ideas to get you started:
+## Skills
+- React Native
+- React.js
+- Flask
+- Python
+- Java
+- MySQL
+- Docker
+- Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- ICMR Fungi NTD Tracker
+- FoodNet Digital Dashboard
+- Agriculture Intelligence SaaS Platform
+
+## Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: your@email.com
